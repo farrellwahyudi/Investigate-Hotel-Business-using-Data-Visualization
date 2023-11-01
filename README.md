@@ -138,3 +138,6 @@ The analysis of monthly booking patterns, stay duration effects, and lead time i
 - It is crucial to continuously monitor and adjust strategies based on the interplay of seasonality, stay duration, and lead time, ensuring adaptability in a competitive market.
 
 By proactively addressing these insights, hotels can enhance their revenue management and provide a more satisfying experience to their guests, ultimately improving their competitiveness in the Indonesian hospitality sector.
+
+****
+<img src="https://cdn.dribbble.com/users/6498639/screenshots/15140426/media/d4aca955d44abf216d77b4e692e138d1.gif" alt="Hotel Business" style="width:600px;height:400px;" loop=infinite>
