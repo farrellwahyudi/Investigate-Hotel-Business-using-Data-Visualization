@@ -15,7 +15,7 @@ This project looks at and focuses on the following:
 - **Lead Time Effect on Cancellation Rates:** how lead time affects cancellation rates.
 
 ## Data Preparation
-The dataset contained: 
+The dataset initially contained: 
 - 119,390 rows and 29 columns
 - 129,425 null values spread across 4 columns
 - 1,172 inappropriate “Undefined” values spread across 3 columns
@@ -23,7 +23,7 @@ The dataset contained:
 The data was cleaned and prepared accordingly. The final dataset contains: 
 - 118,900 rows and 24 columns
 - Has 0 null values and 0 inappropriate values
-- Is smaller and less complex than the previous one
+- Is smaller in size and less complex than the previous one
 
 ## Analysis
 
